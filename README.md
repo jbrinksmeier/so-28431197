@@ -7,6 +7,7 @@ usage:
 Download and extract to folder (or just clone).
 
 cd your/download/folder
+
 php csv.php
 
 result is in your/download/folder/result.csv
